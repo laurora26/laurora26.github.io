@@ -1,2 +1,2 @@
 # laurora26.github.io
-theme: jekyll-theme-cayman
+theme: jekyll-theme-Cayman
